@@ -1,4 +1,4 @@
-# CS_250
+# The Gaming Room Design Document
 
 The client, The Gaming Room, is seeking to expand the use of the use user-base of their game by enabling multi-platform compatibility across mobile operating systems and web browsers. In order to support this endeavor, the ask from the company is to design a set of system requirements that allowed this functionality in a way that is both efficient and secure.
 

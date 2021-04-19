@@ -1,2 +1,2 @@
 # SNHU
-A collection of various projects from the Computer Science BS program
+This is my portfolio of projects from various courses taken while pursuing my BS in Computer Science from Southern New Hampshire University
